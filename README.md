@@ -1,6 +1,8 @@
 # Organic-food-authenticity-classification
 "Non-targeted Mass Spectrometry and Machine Learning Integration for Classification of Organic and Conventional Crops: A Case Study on Tomatoes"
+
 <img width="411" alt="image" src="https://github.com/user-attachments/assets/948ca913-4b15-4204-be6f-6b49a24d5d0f" />
+
 
 
 The scripts numbered 1-7 contain the code of the subject from data preprocessing and model training, as follows:
